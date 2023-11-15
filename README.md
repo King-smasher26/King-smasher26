@@ -2,7 +2,7 @@
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=King-smasher26&theme=omni&show_icons=true'/>
 
-<img align='left'  width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=King-smasher26&layout=compact'/>
+<img align='left'  width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=King-smasher26&layout=compact&theme=omni'/>
 
 
 <img align='left' src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
